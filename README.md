@@ -1,7 +1,7 @@
 # globeEngage
 The problem that this project aims to solve is to motivate users to engage with nature through a point system.
 
-Currently there is a lack of an app that can encourage users to explore nature specifically for the purpose of capturing its beauty through videography, geospatial data in addition to a point system that can deliver an interactive, realtime experience as well as an encouraging factor for users to explore nature.
+Currently there is a lack of an app specifically for the purpose of capturing the beauty of nature, natural haitats, etc through videography, geospatial data in addition to a point system that can deliver an interactive, realtime experience as well as an encouraging factor for users to explore nature.
 
 ### Frameworks: Android and Reactjs (Possibly React Native)
 
@@ -16,6 +16,7 @@ Currently there is a lack of an app that can encourage users to explore nature s
 - Rating System on Videos
 - Uploading captured video of user to back end
 - Usage of sensors on phone to record using the back camera only
+- Video contents are "Short-lived" and expire after 24 hours from the time it is uploaded
 
 ### Back-End
 - Conversion of uploaded content to MPEG-DASH format
