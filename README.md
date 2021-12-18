@@ -15,6 +15,7 @@ Currently there is a lack of an app that can encourage users to explore nature s
 - User Profile Summary Using Reactjs and QR Code
 - Rating System on Videos
 - Uploading captured video of user to back end
+- Usage of sensors on phone to record using the back camera only
 
 ### Back-End
 - Conversion of uploaded content to MPEG-DASH format
