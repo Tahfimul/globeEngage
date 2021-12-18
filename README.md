@@ -1,7 +1,7 @@
 # globeEngage
 The problem that this project aims to solve is to motivate users to engage with nature through a point system.
 
-Currently there is a lack of an app that can encourage users to explore nature specifically for the purpose of capturing its beauty through videography, geospatial data in addition to a point system that can deliver an interactive experience as well as an encouraging factor for users.
+Currently there is a lack of an app that can encourage users to explore nature specifically for the purpose of capturing its beauty through videography, geospatial data in addition to a point system that can deliver an interactive, realtime experience as well as an encouraging factor for users to explore nature.
 
 ### Frameworks: Android and Reactjs (Possibly React Native)
 
